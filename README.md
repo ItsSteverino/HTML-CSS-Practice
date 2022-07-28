@@ -1,3 +1,3 @@
 # HTML-CSS-Practice
 
-This is my second repo :) Making history!
+This is my second repo :)
